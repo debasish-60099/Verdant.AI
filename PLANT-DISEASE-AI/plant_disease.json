@@ -1,0 +1,625 @@
+[
+    {
+        "name": "Apple Scab",
+        "cause": "Apple Scab, caused by the fungus Venturia inaequalis, is a prevalent and economically significant disease affecting apple trees worldwide. It thrives in cool, wet conditions, particularly during spring, leading to characteristic olive-green to brown spots on leaves, fruit, and twigs. Severe infections can cause premature defoliation, fruit deformation, and reduced yield quality, making early detection and consistent management crucial for healthy apple production.",
+        "cure": {
+            "title": "Comprehensive Treatment Plan for Apple Scab",
+            "steps": [
+                "Week 1: Begin fungicide applications at bud break and continue at 7-10 day intervals, especially during wet periods. Use fungicides with active ingredients like Myclobutanil, Captan, or Mancozeb, rotating products to prevent resistance.",
+                "Week 2: Prune apple trees to improve air circulation within the canopy, which helps reduce humidity and quickens leaf drying, thereby inhibiting fungal growth. Ensure proper spacing between trees.",
+                "Week 3: Rake and destroy all fallen leaves and fruit in the autumn. This is critical as the fungus overwinters in infected debris, and removing it significantly reduces the primary inoculum for the following spring.",
+                "Week 4: Plant disease-resistant apple varieties such as 'Liberty', 'Enterprise', 'GoldRush', or 'Prima'. While not entirely immune, these varieties exhibit strong resistance, reducing the need for intensive fungicide programs.",
+                "Week 5: Monitor weather forecasts closely. If prolonged wet periods are anticipated, apply fungicides preventatively. Consider using a weather-based disease forecasting system to optimize spray timings.",
+                "Week 6: Ensure trees receive adequate nutrition and water to maintain overall health and vigor, making them more resilient to disease. Avoid overhead irrigation that keeps foliage wet for extended periods.",
+                "Week 7: Continue scouting for symptoms throughout the growing season. Early detection of new infections allows for prompt intervention, preventing widespread disease development and protecting fruit quality."
+            ]
+        }
+    },
+    {
+        "name": "Apple Black Rot",
+        "cause": "Apple Black Rot, caused by the fungus Botryosphaeria obtusa, is a destructive disease that affects apple trees, leading to significant fruit decay, cankers on branches, and leaf spots. The fungus typically enters through wounds or natural openings and can overwinter in mummified fruit or dead wood. Infected fruit develops dark, concentric rings and eventually shrivels into hard, black mummies, posing a continuous source of inoculum if not managed.",
+        "cure": {
+            "title": "Effective Management Strategies for Apple Black Rot",
+            "steps": [
+                "Week 1: Prune out and destroy all cankered limbs and dead wood during dormancy or dry periods. Make cuts well below visible cankers to ensure complete removal of infected tissue.",
+                "Week 2: Remove all mummified fruit from the tree and the ground. These serve as primary sources of fungal spores for new infections. Dispose of them by burying or burning.",
+                "Week 3: Apply fungicides containing active ingredients like Captan or Myclobutanil. Initiate sprays at petal fall and continue at regular intervals (e.g., 7-14 days) through the cover spray period, especially in orchards with a history of the disease.",
+                "Week 4: Protect trees from wounds caused by insects, equipment, or hail, as these provide entry points for the fungus. Promptly treat any accidental wounds with a protective sealant.",
+                "Week 5: Maintain good orchard sanitation by regularly clearing debris and weeds from around the base of trees. This reduces humidity and removes potential overwintering sites for the fungus.",
+                "Week 6: Ensure balanced fertilization to promote tree vigor without excessive succulent growth, which can be more susceptible to infection. Avoid over-fertilization with nitrogen.",
+                "Week 7: Implement a comprehensive pest management program to control insects that cause fruit injury, as these injuries can predispose fruit to black rot infection. Continue monitoring for new symptoms throughout the season."
+            ]
+        }
+    },
+    {
+        "name": "Cedar Apple Rust",
+        "cause": "Cedar Apple Rust, caused by the fungus Gymnosporangium juniperi-virginianae, is a fascinating disease with a complex life cycle requiring two different host plants: apple (or crabapple) and juniper (especially Eastern Red Cedar). On apple trees, it causes bright orange-yellow spots on leaves, fruit, and sometimes twigs, which can lead to premature defoliation and reduced fruit quality. The disease is highly dependent on the proximity of both hosts, as spores must alternate between them to complete their life cycle.",
+        "cure": {
+            "title": "Managing Cedar Apple Rust: A Dual-Host Approach",
+            "steps": [
+                "Week 1: Identify and remove nearby juniper trees, particularly Eastern Red Cedars, within a few hundred yards of apple trees. This is the most effective long-term control measure as it breaks the disease cycle.",
+                "Week 2: Plant rust-resistant apple varieties such as 'Liberty', 'Prima', 'Redfree', or 'William's Pride'. These varieties significantly reduce the impact of the disease even if juniper hosts are present.",
+                "Week 3: Apply fungicides containing active ingredients like Myclobutanil or Fenarimol to apple trees. Begin applications at bud break and continue until about two weeks after petal fall, especially during wet spring weather when spores are being released from junipers.",
+                "Week 4: Prune out any galls on juniper trees during late winter or early spring before they produce spores. While this won't protect your apple trees from spores originating from other junipers, it can help reduce local inoculum.",
+                "Week 5: Maintain good air circulation around apple trees through proper pruning. This helps foliage dry more quickly, making it less hospitable for fungal spore germination.",
+                "Week 6: Avoid planting susceptible juniper species near apple orchards. If ornamental junipers are desired, choose resistant varieties or species that are not hosts for cedar apple rust.",
+                "Week 7: Regularly inspect both apple and juniper trees for signs of infection. Early detection allows for timely intervention and can prevent severe disease outbreaks. Consider a community-wide effort if neighbors also have susceptible hosts."
+            ]
+        }
+    },
+    {
+        "name": "Apple Leaf Is Healthy",
+        "cause": "This apple tree exhibits no signs of disease, indicating optimal health and growing conditions. A healthy tree is characterized by vibrant green foliage, robust growth, and the absence of any lesions, spots, or deformities on leaves, stems, or fruit. Maintaining this healthy state requires consistent care and proactive measures against potential stressors.",
+        "cure": {
+            "title": "Maintaining Optimal Apple Tree Health",
+            "steps": [
+                "Week 1: Ensure consistent and adequate watering, especially during dry periods, to support healthy growth and fruit development. Avoid overwatering, which can lead to root issues.",
+                "Week 2: Implement a balanced fertilization program based on soil test results. Proper nutrient levels are crucial for tree vigor and disease resistance.",
+                "Week 3: Conduct annual dormant pruning to remove dead, diseased, or crossing branches, improving air circulation and light penetration within the canopy.",
+                "Week 4: Monitor for common pests and diseases regularly. Early detection allows for timely and targeted intervention, minimizing the need for broad-spectrum treatments.",
+                "Week 5: Maintain good orchard sanitation by removing fallen leaves, fruit, and debris, which can harbor pests and disease pathogens.",
+                "Week 6: Protect the tree from physical damage, such as lawnmower blight or rodent gnawing, which can create entry points for pathogens.",
+                "Week 7: Consider applying dormant oil sprays in late winter to control overwintering insect pests and some fungal spores, providing an early season protective measure."
+            ]
+        }
+    },
+    {
+    "name": "Background Without Leaves",
+    "cause": "The image provided does not contain any plant leaves, making disease diagnosis impossible.",
+    "cure": {
+        "title": "Re-submission Guidelines",
+        "steps": [
+            "1. Capture a clear, well-lit photo focused on the plant's leaves (should fill at least 60% of the frame)",
+            "2. Ensure no obstructions are covering the leaves and use a simple background",
+            "3. Submit a high-resolution image (JPEG/PNG) showing multiple leaves from different angles if possible"
+        ]
+    }
+},
+    {
+        "name": "Blueberry Leaf Is Healthy",
+        "cause": "This blueberry plant is in excellent health, showing no signs of disease or nutritional deficiencies. Healthy blueberry plants are characterized by lush, green leaves, vigorous growth, and abundant fruit production. Maintaining optimal health is key to ensuring consistent yields and preventing common blueberry ailments.",
+        "cure": {
+            "title": "Maintaining Peak Health for Blueberry Plants",
+            "steps": [
+                "Week 1: Ensure the soil pH is acidic (4.5-5.5), which is crucial for blueberry health. Conduct a soil test and amend with sulfur or peat moss if necessary.",
+                "Week 2: Provide consistent moisture, especially during fruit development. Blueberries have shallow roots and require about 1-2 inches of water per week, either from rain or irrigation.",
+                "Week 3: Fertilize with an acid-forming fertilizer specifically designed for blueberries or rhododendrons. Apply in early spring and again after harvest, following product instructions.",
+                "Week 4: Prune annually during late winter to remove old, unproductive canes, improve air circulation, and encourage new growth. This also helps manage plant size and shape.",
+                "Week 5: Apply a layer of organic mulch (e.g., pine bark, wood chips, pine needles) around the base of the plants to conserve moisture, suppress weeds, and maintain soil acidity.",
+                "Week 6: Protect plants from common pests and birds. Use netting to deter birds during fruiting season and monitor for insect pests, applying organic controls if necessary.",
+                "Week 7: Ensure adequate sunlight exposure (at least 6-8 hours daily) for optimal growth and fruit production. Proper air circulation helps prevent fungal diseases."
+            ]
+        }
+    },
+    {
+        "name": "Cherry Powdery Mildew",
+        "cause": "Cherry Powdery Mildew, caused by the fungus Podosphaera clandestina, is a common fungal disease affecting cherry trees, particularly in warm, humid conditions. It manifests as a white, powdery growth on the surface of leaves, young shoots, and sometimes fruit. Severe infections can lead to leaf distortion, reduced photosynthesis, and impaired fruit development, impacting both yield and quality. The fungus overwinters in buds and rapidly spreads via wind-borne spores.",
+        "cure": {
+            "title": "Effective Strategies for Cherry Powdery Mildew Control",
+            "steps": [
+                "Week 1: Apply fungicides containing sulfur, potassium bicarbonate, or myclobutanil at the first sign of disease and continue at 7-14 day intervals, especially during periods favorable for mildew development.",
+                "Week 2: Prune cherry trees to improve air circulation within the canopy. Remove dense growth and any infected shoots to reduce humidity and create a less favorable environment for the fungus.",
+                "Week 3: Remove and destroy severely infected leaves and shoots to reduce the amount of fungal inoculum. Do not compost infected plant material.",
+                "Week 4: Consider planting powdery mildew-resistant cherry varieties if available for your region. While no cherry is completely immune, some varieties show greater tolerance.",
+                "Week 5: Avoid excessive nitrogen fertilization, which can promote lush, succulent growth that is more susceptible to mildew. Use a balanced fertilizer program.",
+                "Week 6: Ensure proper irrigation practices, avoiding overhead watering that keeps foliage wet. Water at the base of the tree to keep leaves dry.",
+                "Week 7: Regularly monitor trees for early signs of powdery mildew, particularly on young leaves and shoots. Early detection and intervention are key to effective control and preventing widespread outbreaks."
+            ]
+        }
+    },
+    {
+        "name": "cherry leaf Is Healthy",
+        "cause": "This cherry tree is in excellent health, displaying vigorous growth, lush green foliage, and no visible signs of disease or pest infestation. A healthy cherry tree is characterized by strong branches, abundant leaves, and the potential for bountiful fruit production. Maintaining this state requires consistent care and proactive measures.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Cherry Trees",
+            "steps": [
+                "Week 1: Ensure consistent and adequate watering, especially during dry spells and fruit development. Deep watering encourages strong root growth.",
+                "Week 2: Provide balanced nutrition through appropriate fertilization based on soil test results. Avoid excessive nitrogen, which can lead to lush but weak growth.",
+                "Week 3: Conduct annual pruning during late winter or early spring to remove dead, diseased, or crossing branches, and to maintain an open canopy for good air circulation and light penetration.",
+                "Week 4: Monitor for common cherry pests (e.g., cherry fruit fly, aphids) and diseases (e.g., brown rot, leaf spot). Implement integrated pest management strategies if issues arise.",
+                "Week 5: Maintain good orchard sanitation by removing fallen leaves and fruit, which can harbor pests and disease pathogens.",
+                "Week 6: Protect the tree from physical damage to the bark, which can create entry points for diseases. Use tree guards if necessary.",
+                "Week 7: Ensure proper drainage around the tree's root zone to prevent waterlogging, which can lead to root rot and other issues. Cherry trees prefer well-drained soil."
+            ]
+        }
+    },
+    {
+        "name": "Corn Cercospora Leaf Spot Gray Leaf Spot",
+        "cause": "Cercospora Leaf Spot and Gray Leaf Spot are two distinct but often co-occurring fungal diseases affecting corn, caused by Cercospora zeae-maydis and Cercospora sorghi, respectively. Both diseases manifest as elongated, rectangular lesions on leaves, typically gray to tan in color, often surrounded by a yellow halo. They can lead to significant defoliation, particularly in susceptible hybrids and under warm, humid conditions, resulting in reduced photosynthetic capacity and considerable yield losses if not managed.",
+        "cure": {
+            "title": "Integrated Management for Corn Leaf Spots",
+            "steps": [
+                "Week 1: Select resistant or tolerant corn hybrids. This is the most effective and economical control measure. Consult local seed guides for recommended varieties.",
+                "Week 2: Implement crop rotation with non-host crops (e.g., soybeans, small grains) for at least two years to reduce the inoculum load in the soil. Avoid continuous corn planting.",
+                "Week 3: Consider tillage practices that bury corn residue, as the fungi overwinter in infected plant debris. This can help reduce the initial inoculum for the next growing season.",
+                "Week 4: Apply foliar fungicides if disease pressure is high and corn is in susceptible growth stages (e.g., VT to R5). Products containing strobilurins, triazoles, or a combination are effective. Follow label rates and timings.",
+                "Week 5: Monitor fields regularly, especially from tasseling through grain fill, for early signs of disease development. Early detection allows for timely fungicide application if warranted.",
+                "Week 6: Ensure proper plant spacing and nutrient management to promote healthy, vigorous growth. Avoid excessive nitrogen, which can make plants more susceptible.",
+                "Week 7: If irrigation is used, consider methods that minimize leaf wetness duration, such as drip irrigation, or schedule overhead irrigation for times when leaves will dry quickly."
+            ]
+        }
+    },
+    {
+        "name": "Corn Common Rust",
+        "cause": "Corn Common Rust, caused by the fungus Puccinia sorghi, is a widespread fungal disease that can affect corn plants at various growth stages, though it is most damaging when it occurs early in the season. It is characterized by the appearance of small, cinnamon-brown, powdery pustules (uredinia) on both upper and lower leaf surfaces, which release spores that can be spread by wind over long distances. Severe infections can reduce photosynthetic area, leading to premature leaf death and significant yield losses.",
+        "cure": {
+            "title": "Controlling Corn Common Rust: A Strategic Approach",
+            "steps": [
+                "Week 1: Plant rust-resistant corn hybrids. This is the primary and most effective method of control, especially in areas with a history of severe rust outbreaks. Check hybrid ratings for resistance.",
+                "Week 2: Monitor corn fields regularly, particularly during periods of cool, humid weather, which favors rust development. Pay close attention to the lower leaves first.",
+                "Week 3: Apply foliar fungicides if disease severity warrants it, typically when rust pustules are widespread on lower leaves and beginning to appear on middle leaves, and the corn is in susceptible growth stages (e.g., VT to R5).",
+                "Week 4: Ensure proper plant nutrition and overall plant health. Healthy, vigorous plants are generally more tolerant to disease pressure. Avoid nutrient deficiencies.",
+                "Week 5: Consider crop rotation, although common rust spores are wind-borne and can travel long distances, so rotation alone may not be fully effective but can contribute to overall plant health.",
+                "Week 6: Manage volunteer corn plants and certain perennial grasses (e.g., Oxalis species) that can serve as alternative hosts for the rust fungus, helping to reduce local inoculum.",
+                "Week 7: If possible, adjust planting dates to avoid periods of peak rust spore inoculum, though this can be challenging due to other agronomic considerations. Focus on resistant hybrids and timely fungicide applications."
+            ]
+        }
+    },
+    {
+        "name": "Corn Northern Leaf Blight",
+        "cause": "Northern Leaf Blight (NLB), caused by the fungus Exserohilum turcicum, is one of the most destructive foliar diseases of corn, particularly in regions with cool, humid conditions. It is characterized by long, elliptical, gray-green lesions that appear on leaves, often resembling cigar-shaped spots. These lesions can expand rapidly, coalescing to blight entire leaves, which significantly reduces the plant's photosynthetic capacity and can lead to substantial yield losses, especially if infection occurs early in the season.",
+        "cure": {
+            "title": "Managing Northern Leaf Blight in Corn",
+            "steps": [
+                "Week 1: Plant resistant or tolerant corn hybrids. This is the most effective and economical method for managing NLB. Consult seed company ratings for resistance levels.",
+                "Week 2: Implement crop rotation with non-host crops (e.g., soybeans, small grains) for at least two years. The fungus overwinters in corn residue, so rotation helps reduce primary inoculum.",
+                "Week 3: Consider tillage practices that bury corn residue, as this can help decompose infected plant material and reduce the survival of the fungus between growing seasons.",
+                "Week 4: Apply foliar fungicides if disease pressure is high and corn is in susceptible growth stages (e.g., VT to R5). Fungicides containing strobilurins, triazoles, or a combination are effective. Follow label recommendations for timing and rate.",
+                "Week 5: Monitor fields regularly, especially after tasseling, for the appearance and progression of NLB symptoms. Early detection is crucial for timely fungicide application decisions.",
+                "Week 6: Ensure proper plant spacing and balanced nutrient management. Healthy, well-nourished plants are better able to withstand disease pressure. Avoid excessive nitrogen.",
+                "Week 7: If irrigation is used, consider methods that minimize leaf wetness duration, such as drip irrigation, or schedule overhead irrigation for times when leaves will dry quickly to reduce favorable conditions for fungal development."
+            ]
+        }
+    },
+    {
+        "name": "Corn Healthy",
+        "cause": "This corn plant exhibits excellent health, characterized by vibrant green leaves, strong stalks, and robust growth. A healthy corn plant is free from any visible signs of disease, pest damage, or nutritional deficiencies, indicating optimal growing conditions and proper care. Maintaining this healthy state is essential for maximizing yield potential.",
+        "cure": {
+            "title": "Promoting and Maintaining Healthy Corn Growth",
+            "steps": [
+                "Week 1: Ensure proper soil preparation before planting, including adequate drainage and aeration. Conduct a soil test to determine nutrient needs and adjust pH if necessary.",
+                "Week 2: Plant high-quality seeds of a hybrid suited to your local climate and soil conditions. Ensure proper planting depth and spacing for optimal emergence and growth.",
+                "Week 3: Provide consistent and adequate water, especially during critical growth stages like tasseling and silking. Avoid both drought stress and waterlogging.",
+                "Week 4: Implement a balanced fertilization program based on soil test recommendations. Ensure sufficient nitrogen, phosphorus, and potassium, along with essential micronutrients.",
+                "Week 5: Control weeds effectively through pre-emergent and post-emergent herbicides, cultivation, or manual removal. Weeds compete with corn for water, nutrients, and sunlight.",
+                "Week 6: Monitor for common corn pests (e.g., corn earworm, European corn borer) and diseases (e.g., rusts, blights). Implement integrated pest management strategies if issues arise.",
+                "Week 7: Practice crop rotation with non-corn crops to break disease cycles and improve soil health. This also helps manage pest populations and nutrient cycling."
+            ]
+        }
+    },
+    {
+        "name": "Grape Black Rot",
+        "cause": "Grape Black Rot is a fungal disease caused by Guignardia bidwellii, primarily affecting grapevines. It can lead to significant crop loss if not managed effectively. The disease manifests as small, circular, reddish-brown spots on young leaves that enlarge and turn tan with dark borders. On fruit, infections begin as small, light-colored spots that rapidly expand, turning the berries black and shriveled into hard, raisin-like mummies. This disease thrives in warm, humid conditions and can devastate a vineyard if left unchecked.",
+        "cure": {
+            "title": "AI-generated tips: 7-day procedure for Grape Black Rot",
+            "steps": [
+                "Day 1: Sanitation and Pruning: Immediately remove and destroy all infected plant parts, including leaves, tendrils, and especially mummified berries from the previous season. Prune out any cankered or diseased canes during dormancy.",
+                "Day 2: Fungicide Application (Pre-bloom): Apply a systemic fungicide (e.g., Myclobutanil, Tebuconazole) or a protectant fungicide (e.g., Mancozeb, Captan) just before bloom. Ensure thorough coverage of all green tissues.",
+                "Day 3: Improve Air Circulation:Implement proper vine training and canopy management techniques to ensure good air circulation and sunlight penetration. This helps leaves dry quickly, reducing the duration of leaf wetness critical for fungal infection.",
+                "Day 4: Fungicide Application (Post-bloom): Reapply fungicide immediately after bloom and continue at 7-14 day intervals, particularly if wet weather persists. This period is crucial for protecting developing berries.",
+                "Day 5: Monitor and Scout: Regularly inspect vines for new symptoms, especially after rain events. Pay close attention to young leaves and developing fruit. Early detection allows for timely intervention.",
+                "Day 6: Weed Management and Trellising: Keep the vineyard floor free of weeds, as they can increase humidity. Ensure vines are properly trellised to keep foliage off the ground, further improving air flow.",
+                "Day 7: Post-Harvest Clean-up: After harvest, conduct a thorough clean-up of the vineyard, removing any remaining mummified fruit and fallen leaves. This reduces the overwintering inoculum and prepares the vineyard for the next season."
+            ]
+        }
+    },
+    {
+        "name": "Grape Esca (Black Measles)",
+        "cause": "Grape Esca, also known as Black Measles, is a complex and devastating trunk disease of grapevines caused by a consortium of wood-decaying fungi, including Phaeomoniella chlamydospora and Phaeoacremonium minimum. It manifests in two forms: a chronic form with interveinal chlorosis and necrosis on leaves (tiger stripe pattern) and internal wood discoloration, and an acute 'apoplexy' form leading to sudden vine collapse. The disease is often associated with pruning wounds and can significantly reduce vine longevity and productivity, posing a major threat to vineyards worldwide.",
+        "cure": {
+            "title": "Strategies for Managing Grape Esca (Black Measles)",
+            "steps": [
+                "Week 1: Pruning Wound Protection: Apply a protective paste or fungicide (e.g., thiophanate-methyl) to large pruning wounds immediately after pruning, especially in older vines, to prevent fungal entry.",
+                "Week 2: Surgical Removal: For vines showing chronic symptoms, consider surgical removal of infected wood. Cut back to healthy wood, ensuring all discolored tissue is removed, and protect the new cut.",
+                "Week 3: Vineyard Sanitation: Remove and destroy severely diseased or dead vines to prevent the spread of inoculum. Do not leave infected wood in the vineyard.",
+                "Week 4: Avoid Stress: Minimize vine stress by ensuring optimal irrigation, nutrition, and pest management. Stressed vines are more susceptible to Esca development.",
+                "Week 5: Delayed Pruning: In areas with high disease pressure, consider delaying pruning until late winter or early spring when fungal spore dispersal is less active.",
+                "Week 6: Rejuvenation Pruning: For severely affected vines, consider rejuvenation pruning (cutting back to the trunk or cordon) to encourage new, healthy growth, though this may temporarily reduce yield.",
+                "Week 7: Biological Control Agents: Explore the use of biological control agents (e.g., Trichoderma species) applied to pruning wounds, which can competitively inhibit pathogenic fungi. Consult with local experts for approved products."
+            ]
+        }
+    },
+    {
+        "name": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+        "cause": "Grape Leaf Blight, also known as Isariopsis Leaf Spot, is a fungal disease caused by Pseudocercospora vitis (formerly Isariopsis clavispora). It primarily affects grape leaves, causing small, angular, dark brown spots that often coalesce into larger necrotic areas. These spots typically have a purplish border and can lead to premature defoliation, especially in susceptible varieties and under warm, humid conditions. While primarily a foliar disease, severe infections can weaken the vine and indirectly impact fruit quality and yield.",
+        "cure": {
+            "title": "Controlling Grape Leaf Blight (Isariopsis Leaf Spot)",
+            "steps": [
+                "Week 1: Fungicide Application: Apply fungicides containing active ingredients like Mancozeb, Myclobutanil, or Copper-based products. Begin applications when symptoms first appear or preventatively during periods of high humidity and warmth.",
+                "Week 2: Canopy Management:Implement proper vine training and pruning to ensure good air circulation and sunlight penetration within the canopy. This helps reduce leaf wetness duration, which is crucial for fungal development.",
+                "Week 3: Sanitation: Remove and destroy infected leaves and plant debris from the vineyard floor, especially after leaf drop in autumn. This reduces the overwintering inoculum source.",
+                "Week 4: Resistant Varieties: Consider planting grape varieties that exhibit resistance or tolerance to Leaf Blight. Consult local agricultural extension services for recommendations suitable for your region.",
+                "Week 5: Irrigation Practices: If irrigation is necessary, use drip irrigation or schedule overhead irrigation for early morning hours to allow foliage to dry quickly, minimizing prolonged leaf wetness.",
+                "Week 6: Nutrient Management: Ensure balanced nutrition for the vines. Healthy, well-nourished plants are generally more resilient to disease pressure. Avoid excessive nitrogen fertilization.",
+                "Week 7: Regular Scouting: Continuously monitor vines throughout the growing season for early signs of leaf blight. Prompt identification allows for timely and effective intervention, preventing widespread disease."
+            ]
+        }
+    },
+    {
+        "name": "Grape Healthy",
+        "cause": "This grapevine is in excellent health, showing no signs of disease, pest infestation, or nutritional deficiencies. A healthy grapevine is characterized by vigorous shoot growth, lush green leaves, strong tendrils, and the potential for abundant, high-quality fruit production. Maintaining this optimal state is crucial for long-term vineyard productivity and sustainability.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Grapevines",
+            "steps": [
+                "Week 1: Pruning: Conduct annual dormant pruning to remove old, unproductive wood, maintain vine shape, and ensure proper balance between vegetative growth and fruit production. This also improves air circulation.",
+                "Week 2: Trellising and Training: Ensure vines are properly trellised and trained to support growth, maximize sunlight exposure, and facilitate air movement within the canopy, reducing disease risk.",
+                "Week 3: Soil Management: Maintain healthy soil through regular soil testing, balanced fertilization, and organic matter incorporation. Ensure good drainage to prevent root issues.",
+                "Week 4: Water Management: Provide consistent and adequate water, especially during critical growth stages like bloom, fruit set, and veraison. Use drip irrigation to conserve water and minimize leaf wetness.",
+                "Week 5: Pest and Disease Monitoring: Regularly scout for common grapevine pests (e.g., grape berry moth, phylloxera) and diseases (e.g., powdery mildew, downy mildew). Implement integrated pest management strategies if issues arise.",
+                "Week 6: Weed Control: Keep the vineyard floor free of weeds, which compete for water and nutrients and can harbor pests or diseases. Use mulching or cultivation.",
+                "Week 7: Winter Protection: In colder climates, consider winter protection measures for tender varieties, such as burying canes or using protective covers, to prevent cold damage and ensure vine survival."
+            ]
+        }
+    },
+    {
+        "name": "Orange Haunglongbing (Citrus Greening)",
+        "cause": "Huanglongbing (HLB), also known as Citrus Greening Disease, is one of the most devastating citrus diseases worldwide, caused by a bacterium (Candidatus Liberibacter asiaticus, africanus, or americanus) and primarily spread by the Asian citrus psyllid. It leads to blotchy mottle leaf patterns, stunted growth, premature fruit drop, and small, lopsided, bitter fruit. HLB eventually causes tree decline and death, posing a severe threat to citrus industries globally due to its rapid spread and lack of a known cure for infected trees.",
+        "cure": {
+            "title": "Managing Huanglongbing (Citrus Greening)",
+            "steps": [
+                "Week 1: Psyllid Control: Implement aggressive control measures for the Asian citrus psyllid, the primary vector of HLB. This includes systemic insecticides, foliar sprays, and biological control agents.",
+                "Week 2: Remove Infected Trees: Immediately remove and destroy any trees confirmed to be infected with HLB. This is crucial to reduce the source of inoculum and prevent further spread within the grove.",
+                "Week 3: Plant Certified Trees: Only plant citrus trees that are certified disease-free and sourced from reputable nurseries. This ensures new plantings are not already infected.",
+                "Week 4: Nutrient Management: Provide optimal nutrition to trees to help them tolerate the disease and maintain productivity for longer. This includes foliar and soil applications of essential nutrients.",
+                "Week 5: Protect Young Trees: Pay extra attention to protecting young trees, as they are highly susceptible and can quickly succumb to the disease. Use protective covers or more frequent insecticide applications.",
+                "Week 6: Area-Wide Management: Collaborate with neighboring growers and local agricultural authorities to implement area-wide psyllid and disease management programs. HLB cannot be effectively managed in isolation.",
+                "Week 7: Research and New Varieties: Stay informed about ongoing research into HLB-resistant or tolerant citrus varieties and new management technologies. Support efforts to develop long-term solutions."
+            ]
+        }
+    },
+    {
+        "name": "Peach Bacterial Spot",
+        "cause": "Peach Bacterial Spot, caused by the bacterium Xanthomonas arboricola pv. pruni, is a significant disease affecting peaches, nectarines, and other stone fruits. It thrives in warm, humid conditions and is characterized by small, angular, water-soaked spots on leaves that turn dark brown or black and often drop out, giving a 'shot-hole' appearance. On fruit, it causes dark, sunken spots that can crack, leading to reduced marketability. Severe infections can result in premature defoliation and weakened trees.",
+        "cure": {
+            "title": "Controlling Peach Bacterial Spot",
+            "steps": [
+                "Week 1: Resistant Varieties: Plant bacterial spot-resistant peach varieties. While no variety is completely immune, some show significant tolerance, reducing disease severity.",
+                "Week 2: Copper Sprays: Apply copper-based bactericides (e.g., Bordeaux mixture, copper hydroxide) during dormancy and early spring. These act as protectants, reducing bacterial populations.",
+                "Week 3: Pruning: Prune trees to improve air circulation within the canopy, which helps reduce leaf wetness and creates a less favorable environment for bacterial growth. Remove any cankered twigs.",
+                "Week 4: Avoid Overhead Irrigation: If possible, use drip irrigation instead of overhead sprinklers to minimize leaf wetness, as water splash can spread the bacteria.",
+                "Week 5: Nutrient Management: Ensure balanced nutrition for the trees. Avoid excessive nitrogen, which can promote lush, susceptible growth. Adequate calcium can also help.",
+                "Week 6: Sanitation: Remove and destroy fallen leaves and fruit, which can harbor bacteria. This reduces the inoculum source for future infections.",
+                "Week 7: Monitor and Protect: Regularly scout for symptoms throughout the growing season. In orchards with a history of severe bacterial spot, consider additional copper applications during the growing season, following label guidelines carefully to avoid phytotoxicity."
+            ]
+        }
+    },
+    {
+        "name": "Peach Healthy",
+        "cause": "This peach tree is in excellent health, displaying vigorous growth, lush green foliage, and no visible signs of disease or pest infestation. A healthy peach tree is characterized by strong branches, abundant leaves, and the potential for bountiful fruit production. Maintaining this state requires consistent care and proactive measures.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Peach Trees",
+            "steps": [
+                "Week 1: Watering: Ensure consistent and adequate watering, especially during dry spells and fruit development. Deep watering encourages strong root growth.",
+                "Week 2: Fertilization: Provide balanced nutrition through appropriate fertilization based on soil test results. Avoid excessive nitrogen, which can lead to lush but weak growth.",
+                "Week 3: Pruning: Conduct annual pruning during late winter or early spring to remove dead, diseased, or crossing branches, and to maintain an open canopy for good air circulation and light penetration.",
+                "Week 4: Pest and Disease Monitoring: Monitor for common peach pests (e.g., peach tree borer, plum curculio) and diseases (e.g., brown rot, peach leaf curl). Implement integrated pest management strategies if issues arise.",
+                "Week 5: Sanitation: Maintain good orchard sanitation by removing fallen leaves and fruit, which can harbor pests and disease pathogens.",
+                "Week 6: Physical Protection: Protect the tree from physical damage to the bark, which can create entry points for diseases. Use tree guards if necessary.",
+                "Week 7: Drainage: Ensure proper drainage around the tree's root zone to prevent waterlogging, which can lead to root rot and other issues. Peach trees prefer well-drained soil."
+            ]
+        }
+    },
+    {
+        "name": "Pepper Bell Bacterial Spot",
+        "cause": "Pepper Bell Bacterial Spot, caused by the bacterium Xanthomonas euvesicatoria, is a common and destructive disease affecting bell peppers and other Capsicum species. It thrives in warm, wet conditions and is characterized by small, dark, water-soaked spots on leaves that often develop yellow halos and can coalesce, leading to defoliation. On fruit, it causes raised, scab-like lesions that reduce marketability. The bacterium can be seed-borne and spreads rapidly via splashing water, making it challenging to control.",
+        "cure": {
+            "title": "Controlling Bacterial Spot in Bell Peppers",
+            "steps": [
+                "Week 1: Disease-Free Seeds/Transplants: Start with certified disease-free seeds or transplants. This is the most critical step to prevent introducing the pathogen into your garden or field.",
+                "Week 2: Copper-Based Bactericides: Apply copper-based bactericides (e.g., copper hydroxide, copper oxychloride) preventatively, especially during warm, humid weather. Repeated applications may be necessary.",
+                "Week 3: Crop Rotation: Practice crop rotation with non-host crops for at least two to three years to reduce bacterial populations in the soil. Avoid planting peppers or tomatoes in the same spot annually.",
+                "Week 4: Sanitation: Remove and destroy infected plant debris at the end of the season. Avoid working with plants when they are wet, as this can spread the bacteria.",
+                "Week 5: Watering Practices: Use drip irrigation or water at the base of plants to minimize leaf wetness. If overhead irrigation is used, water early in the day to allow foliage to dry quickly.",
+                "Week 6: Resistant Varieties: Choose bacterial spot-resistant bell pepper varieties whenever possible. While resistance may not be complete, it significantly reduces disease severity.",
+                "Week 7: Nutrient Management: Ensure balanced nutrition for the plants. Healthy, vigorous plants are better able to withstand disease pressure. Avoid excessive nitrogen, which can promote lush, susceptible growth."
+            ]
+        }
+    },
+    {
+        "name": "Pepper Bell Leaf Is Healthy",
+        "cause": "This bell pepper plant is in excellent health, exhibiting robust growth, vibrant green leaves, and the promise of abundant fruit. A healthy pepper plant is free from any visible signs of disease, pest damage, or nutritional deficiencies, indicating optimal growing conditions and proper care. Maintaining this healthy state is essential for maximizing yield potential.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Bell Pepper Plants",
+            "steps": [
+                "Week 1: Sunlight: Ensure the plant receives at least 6-8 hours of direct sunlight daily. Bell peppers thrive in full sun.",
+                "Week 2: Watering: Provide consistent and adequate watering, especially during flowering and fruiting. Keep the soil consistently moist but not waterlogged.",
+                "Week 3: Soil: Plant in well-drained, fertile soil rich in organic matter. A soil pH between 6.0 and 6.8 is ideal.",
+                "Week 4: Fertilization: Fertilize with a balanced fertilizer, or one slightly higher in phosphorus and potassium, once fruits begin to set. Avoid excessive nitrogen.",
+                "Week 5: Support: Provide support (stakes or cages) for plants as they grow and bear fruit to prevent branches from breaking under the weight.",
+                "Week 6: Pest and Disease Monitoring: Regularly inspect plants for common pests (e.g., aphids, cutworms) and diseases (e.g., bacterial spot, blight). Implement integrated pest management strategies if issues arise.",
+                "Week 7: Mulching: Apply a layer of organic mulch around the base of the plants to conserve soil moisture, suppress weeds, and regulate soil temperature."
+            ]
+        }
+    },
+    {
+        "name": "Potato Early Blight",
+        "cause": "Potato Early Blight, caused by the fungus Alternaria solani, is a common and widespread disease affecting potatoes and other solanaceous crops. It typically appears on older leaves first, manifesting as small, dark brown spots with characteristic concentric rings, often described as a 'bull's-eye' pattern. These lesions enlarge and can coalesce, leading to significant defoliation, reduced photosynthesis, and ultimately, lower yields and smaller tubers. The fungus overwinters in infected plant debris and can spread rapidly under warm, humid conditions.",
+        "cure": {
+            "title": "Managing Potato Early Blight",
+            "steps": [
+                "Week 1: Crop Rotation: Practice a crop rotation of at least two to three years with non-solanaceous crops to reduce the inoculum load in the soil. Avoid planting potatoes in the same spot annually.",
+                "Week 2: Resistant Varieties: Plant early blight-resistant potato varieties if available for your region. While no variety is completely immune, some show greater tolerance.",
+                "Week 3: Fungicide Application: Apply fungicides preventatively, especially during periods favorable for disease development (warm, humid weather) and as plants approach maturity. Products containing chlorothalonil or mancozeb are effective.",
+                "Week 4: Sanitation: Remove and destroy infected plant debris at the end of the growing season. This is crucial as the fungus overwinters in plant residue.",
+                "Week 5: Watering Practices: Use drip irrigation or water at the base of plants to minimize leaf wetness. If overhead irrigation is used, water early in the day to allow foliage to dry quickly.",
+                "Week 6: Nutrient Management: Ensure balanced nutrition for the plants. Adequate potassium and phosphorus can help improve plant vigor and resistance. Avoid excessive nitrogen.",
+                "Week 7: Hilling: Practice hilling (mounding soil around the base of the plants) to protect developing tubers from direct contact with spores in the soil and to prevent greening."
+            ]
+        }
+    },
+    {
+        "name": "Potato Late Blight",
+        "cause": "Potato Late Blight, caused by the oomycete Phytophthora infestans, is one of the most notorious and destructive plant diseases, historically responsible for the Irish Potato Famine. It can rapidly devastate potato and tomato crops, especially under cool, wet conditions. Symptoms include irregular, water-soaked lesions on leaves that quickly turn brown or black, often surrounded by a pale green halo. A fuzzy white mold may be visible on the underside of leaves in humid conditions. The disease spreads aggressively, affecting stems and tubers, leading to complete crop loss in a short period.",
+        "cure": {
+            "title": "Controlling Potato Late Blight: A Rapid Response Plan",
+            "steps": [
+                "Week 1: Resistant Varieties: Plant late blight-resistant potato varieties. This is the most effective long-term strategy, though resistance levels can vary.",
+                "Week 2: Fungicide Application: Apply fungicides preventatively, especially during periods of cool, wet weather. Systemic fungicides (e.g., those containing propamocarb, dimethomorph) and protectant fungicides (e.g., chlorothalonil, mancozeb) are crucial. Follow a strict spray schedule.",
+                "Week 3: Sanitation: Remove and destroy all infected plant material immediately upon detection. Do not compost infected plants. Ensure volunteer potato and tomato plants are also removed.",
+                "Week 4: Hilling: Practice hilling to cover developing tubers with soil, preventing spores from washing down from infected foliage and infecting the tubers.",
+                "Week 5: Water Management: Avoid overhead irrigation, which promotes leaf wetness. If necessary, water early in the day to allow foliage to dry quickly. Ensure good drainage in the field.",
+                "Week 6: Crop Rotation: Implement a crop rotation of at least three years with non-host crops to reduce the survival of the pathogen in the soil from infected tubers.",
+                "Week 7: Community Awareness: Be aware of late blight outbreaks in your region and communicate with local agricultural extension services. This disease can spread rapidly over large areas, requiring regional coordination."
+            ]
+        }
+    },
+    {
+        "name": "Potato Healthy",
+        "cause": "This potato plant is in excellent health, exhibiting vigorous growth, lush green foliage, and no visible signs of disease, pest damage, or nutritional deficiencies. A healthy potato plant is characterized by strong stems, abundant leaves, and the potential for a bountiful harvest of tubers. Maintaining this state requires consistent care and proactive measures.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Potato Plants",
+            "steps": [
+                "Week 1: Soil Preparation: Ensure well-drained, loose, and fertile soil. Conduct a soil test to adjust pH (5.0-6.0 is ideal) and nutrient levels before planting.",
+                "Week 2: Certified Seed Potatoes: Plant only certified disease-free seed potatoes. This is crucial to prevent introducing diseases like late blight or various viruses.",
+                "Week 3: Watering: Provide consistent and adequate watering, especially during tuber formation. Keep the soil consistently moist but avoid waterlogging.",
+                "Week 4: Fertilization: Fertilize with a balanced fertilizer, or one slightly higher in phosphorus and potassium, as tubers begin to form. Avoid excessive nitrogen, which can promote foliage over tubers.",
+                "Week 5: Hilling: Regularly hill (mound soil around the base of) the plants as they grow. This protects developing tubers from sunlight (preventing greening) and from airborne disease spores.",
+                "Week 6: Pest and Disease Monitoring: Regularly inspect plants for common pests (e.g., Colorado potato beetle, aphids) and diseases (e.g., early blight, late blight). Implement integrated pest management strategies if issues arise.",
+                "Week 7: Crop Rotation: Practice crop rotation with non-potato crops for at least two to three years to break disease cycles and improve soil health."
+            ]
+        }
+    },
+    {
+        "name": "Raspberry Healthy",
+        "cause": "This raspberry plant is in excellent health, showing vigorous cane growth, vibrant green leaves, and the promise of abundant fruit. A healthy raspberry plant is free from any visible signs of disease, pest infestation, or nutritional deficiencies, indicating optimal growing conditions and proper care. Maintaining this state is essential for maximizing fruit production and plant longevity.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Raspberry Plants",
+            "steps": [
+                "Week 1: Pruning: Conduct annual pruning to remove old, fruited canes (for floricanes) and thin new canes (primocanes) to ensure good air circulation and light penetration. This reduces disease risk.",
+                "Week 2: Trellising: Provide adequate support for canes through trellising or staking. This keeps canes off the ground, improves air circulation, and facilitates harvesting.",
+                "Week 3: Soil Management: Ensure well-drained, fertile soil rich in organic matter. Raspberries prefer a slightly acidic to neutral pH (6.0-6.8). Conduct a soil test to amend as needed.",
+                "Week 4: Watering: Provide consistent and adequate watering, especially during dry periods and fruit development. Keep the soil consistently moist but not waterlogged.",
+                "Week 5: Fertilization: Fertilize with a balanced fertilizer in early spring. Avoid excessive nitrogen, which can lead to lush vegetative growth at the expense of fruit.",
+                "Week 6: Pest and Disease Monitoring: Regularly inspect plants for common pests (e.g., raspberry cane borer, Japanese beetles) and diseases (e.g., powdery mildew, rusts). Implement integrated pest management strategies if issues arise.",
+                "Week 7: Weed Control: Keep the area around raspberry plants free of weeds, which compete for water and nutrients. Use mulching to suppress weeds and conserve moisture."
+            ]
+        }
+    },
+    {
+        "name": "Soybean Leaf Is Healthy",
+        "cause": "This soybean plant is in excellent health, exhibiting robust growth, vibrant green trifoliate leaves, and the development of healthy pods. A healthy soybean plant is free from any visible signs of disease, pest damage, or nutritional deficiencies, indicating optimal growing conditions and proper care. Maintaining this state is essential for maximizing yield potential.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Soybean Plants",
+            "steps": [
+                "Week 1: Seed Selection: Plant high-quality, certified disease-free soybean seeds of a variety suited to your local climate and soil conditions. Consider varieties with resistance to common local diseases.",
+                "Week 2: Soil Preparation: Ensure proper soil preparation, including adequate drainage and aeration. Conduct a soil test to determine nutrient needs and adjust pH if necessary.",
+                "Week 3: Planting: Ensure proper planting depth and spacing for optimal emergence and stand establishment. Avoid planting too early in cold, wet soils.",
+                "Week 4: Water Management: Provide consistent and adequate water, especially during critical growth stages like flowering and pod fill. Avoid both drought stress and waterlogging.",
+                "Week 5: Nutrient Management: Implement a balanced fertilization program based on soil test recommendations. Soybeans fix their own nitrogen, but phosphorus, potassium, and micronutrients are important.",
+                "Week 6: Weed Control: Control weeds effectively through pre-emergent and post-emergent herbicides, cultivation, or manual removal. Weeds compete with soybeans for water, nutrients, and sunlight.",
+                "Week 7: Pest and Disease Monitoring: Regularly scout fields for common soybean pests (e.g., soybean aphid, bean leaf beetle) and diseases (e.g., sudden death syndrome, frogeye leaf spot). Implement integrated pest management strategies if issues arise."
+            ]
+        }
+    },
+    {
+        "name": "Squash Powdery Mildew",
+        "cause": "Squash Powdery Mildew is a very common fungal disease affecting squash, pumpkins, cucumbers, and other cucurbits, caused by various fungal species (e.g., Podosphaera xanthii, Erysiphe cichoracearum). It is easily recognizable by the white, powdery spots that appear on the upper and lower surfaces of leaves, stems, and sometimes fruit. Severe infections can lead to premature leaf yellowing, browning, and death, reducing photosynthesis, weakening the plant, and ultimately impacting fruit size and yield. It thrives in warm, dry climates with high humidity.",
+        "cure": {
+            "title": "Controlling Powdery Mildew in Squash",
+            "steps": [
+                "Week 1: Fungicide Application: Apply fungicides containing active ingredients like potassium bicarbonate, sulfur, neem oil, or horticultural oils at the first sign of disease. Repeat applications every 7-14 days as needed.",
+                "Week 2: Resistant Varieties: Plant powdery mildew-resistant squash varieties. This is the most effective long-term control measure and significantly reduces disease pressure.",
+                "Week 3: Improve Air Circulation: Ensure adequate spacing between plants and prune dense foliage to improve air circulation within the canopy. This helps reduce humidity around leaves.",
+                "Week 4: Sanitation: Remove and destroy severely infected leaves and plant debris. Do not compost infected material, as spores can overwinter. Clean up garden beds thoroughly at the end of the season.",
+                "Week 5: Watering Practices: Water plants at the base to avoid wetting the foliage. If overhead irrigation is used, water early in the day to allow leaves to dry quickly.",
+                "Week 6: Nutrient Management: Provide balanced nutrition to promote healthy plant growth. Avoid excessive nitrogen, which can lead to lush, susceptible foliage.",
+                "Week 7: Regular Monitoring: Continuously scout plants for early signs of powdery mildew, especially on older leaves. Early detection and consistent treatment are key to preventing widespread outbreaks."
+            ]
+        }
+    },
+    {
+        "name": "Strawberry Leaf Scorch",
+        "cause": "Strawberry Leaf Scorch, caused by the fungus Diplocarpon earlianum, is a common foliar disease affecting strawberry plants. It manifests as small, irregular, purplish spots on the upper surface of leaves that enlarge and coalesce, eventually turning brown or reddish-brown and giving the leaf a 'scorched' appearance. Severe infections can lead to premature defoliation, reduced plant vigor, and decreased fruit production. The fungus overwinters in infected leaves and spreads via splashing water.",
+        "cure": {
+            "title": "Managing Strawberry Leaf Scorch",
+            "steps": [
+                "Week 1: Sanitation: Remove and destroy all infected leaves and plant debris from the strawberry patch, especially after harvest and during renovation. This reduces the overwintering inoculum.",
+                "Week 2: Fungicide Application: Apply fungicides containing active ingredients like Captan or Myclobutanil. Begin applications at bloom and continue through harvest, especially during wet periods.",
+                "Week 3: Improve Air Circulation: Ensure proper plant spacing and thin out dense plantings to improve air circulation within the canopy. This helps leaves dry more quickly.",
+                "Week 4: Watering Practices: Use drip irrigation or water at the base of plants to minimize leaf wetness. If overhead irrigation is used, water early in the day to allow foliage to dry quickly.",
+                "Week 5: Resistant Varieties: Plant leaf scorch-resistant strawberry varieties if available for your region. Consult local nurseries or extension services for recommendations.",
+                "Week 6: Nutrient Management: Provide balanced nutrition to promote healthy plant growth and vigor. Avoid excessive nitrogen, which can lead to lush, susceptible foliage.",
+                "Week 7: Renovation: After harvest, renovate June-bearing strawberry beds by mowing foliage, thinning plants, and applying fertilizer. This rejuvenates the plants and helps manage disease."
+            ]
+        }
+    },
+    {
+        "name": "Strawberry Healthy",
+        "cause": "This strawberry plant is in excellent health, displaying vigorous growth, lush green leaves, and the development of healthy runners and fruit. A healthy strawberry plant is free from any visible signs of disease, pest damage, or nutritional deficiencies, indicating optimal growing conditions and proper care. Maintaining this state is essential for maximizing fruit production and plant longevity.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Strawberry Plants",
+            "steps": [
+                "Week 1: Sunlight: Ensure the plant receives at least 6-8 hours of direct sunlight daily. Strawberries thrive in full sun.",
+                "Week 2: Watering: Provide consistent and adequate watering, especially during flowering and fruiting. Keep the soil consistently moist but not waterlogged.",
+                "Week 3: Soil: Plant in well-drained, fertile soil rich in organic matter. A slightly acidic pH (5.5-6.5) is ideal.",
+                "Week 4: Fertilization: Fertilize with a balanced fertilizer in early spring and again after harvest. Avoid excessive nitrogen, which can promote foliage over fruit.",
+                "Week 5: Mulching: Apply a layer of straw or other organic mulch around the plants to conserve soil moisture, suppress weeds, keep fruit clean, and regulate soil temperature.",
+                "Week 6: Pest and Disease Monitoring: Regularly inspect plants for common pests (e.g., slugs, aphids) and diseases (e.g., powdery mildew, leaf spot). Implement integrated pest management strategies if issues arise.",
+                "Week 7: Renovation: For June-bearing varieties, renovate beds after harvest by mowing foliage, thinning plants, and applying fertilizer to encourage new growth for the next season."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Bacterial Spot",
+        "cause": "Tomato Bacterial Spot, caused by various Xanthomonas species, is a common and often severe disease affecting tomato plants. It thrives in warm, wet conditions and is characterized by small, dark, water-soaked spots on leaves that often develop yellow halos and can coalesce, leading to defoliation. On fruit, it causes raised, scab-like lesions that reduce marketability. The bacterium can be seed-borne and spreads rapidly via splashing water, making it challenging to control.",
+        "cure": {
+            "title": "Controlling Bacterial Spot in Tomatoes",
+            "steps": [
+                "Week 1: **Disease-Free Seeds/Transplants:** Start with certified disease-free seeds or transplants. This is the most critical step to prevent introducing the pathogen into your garden or field.",
+                "Week 2: **Copper-Based Bactericides:** Apply copper-based bactericides (e.g., copper hydroxide, copper oxychloride) preventatively, especially during warm, humid weather. Repeated applications may be necessary.",
+                "Week 3: **Crop Rotation:** Practice crop rotation with non-host crops for at least two to three years to reduce bacterial populations in the soil. Avoid planting tomatoes or peppers in the same spot annually.",
+                "Week 4: **Sanitation:** Remove and destroy infected plant debris at the end of the season. Avoid working with plants when they are wet, as this can spread the bacteria.",
+                "Week 5: **Watering Practices:** Use drip irrigation or water at the base of plants to minimize leaf wetness. If overhead irrigation is used, water early in the day to allow foliage to dry quickly.",
+                "Week 6: **Resistant Varieties:** Choose bacterial spot-resistant tomato varieties whenever possible. While resistance may not be complete, it significantly reduces disease severity.",
+                "Week 7: **Nutrient Management:** Ensure balanced nutrition for the plants. Healthy, vigorous plants are better able to withstand disease pressure. Avoid excessive nitrogen, which can promote lush, susceptible growth."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Early Blight",
+        "cause": "Tomato Early Blight, caused by the fungus Alternaria solani, is a common and widespread disease affecting tomato plants. It typically appears on older leaves first, manifesting as small, dark brown spots with characteristic concentric rings, often described as a 'bull's-eye' pattern. These lesions enlarge and can coalesce, leading to significant defoliation, reduced photosynthesis, and ultimately, lower yields and smaller fruit. The fungus overwinters in infected plant debris and can spread rapidly under warm, humid conditions.",
+        "cure": {
+            "title": "Managing Tomato Early Blight",
+            "steps": [
+                "Week 1: Crop Rotation: Practice a crop rotation of at least two to three years with non-solanaceous crops to reduce the inoculum load in the soil. Avoid planting tomatoes in the same spot annually.",
+                "Week 2: Resistant Varieties: Plant early blight-resistant tomato varieties if available for your region. While no variety is completely immune, some show greater tolerance.",
+                "Week 3: Fungicide Application: Apply fungicides preventatively, especially during periods favorable for disease development (warm, humid weather) and as plants approach maturity. Products containing chlorothalonil or mancozeb are effective.",
+                "Week 4: Sanitation: Remove and destroy infected plant debris at the end of the growing season. This is crucial as the fungus overwinters in plant residue.",
+                "Week 5: Watering Practices: Use drip irrigation or water at the base of plants to minimize leaf wetness. If overhead irrigation is used, water early in the day to allow foliage to dry quickly.",
+                "Week 6: Nutrient Management: Ensure balanced nutrition for the plants. Adequate potassium and phosphorus can help improve plant vigor and resistance. Avoid excessive nitrogen.",
+                "Week 7: Mulching: Apply a layer of organic mulch around the base of plants to create a barrier between soil-borne spores and lower leaves, reducing splash dispersal."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Late Blight",
+        "cause": "Tomato Late Blight, caused by the oomycete Phytophthora infestans, is one of the most notorious and destructive plant diseases, historically responsible for the Irish Potato Famine. It can rapidly devastate tomato and potato crops, especially under cool, wet conditions. Symptoms include irregular, water-soaked lesions on leaves that quickly turn brown or black, often surrounded by a pale green halo. A fuzzy white mold may be visible on the underside of leaves in humid conditions. The disease spreads aggressively, affecting stems and fruit, leading to complete crop loss in a short period.",
+        "cure": {
+            "title": "Controlling Tomato Late Blight: A Rapid Response Plan",
+            "steps": [
+                "Week 1: Resistant Varieties: Plant late blight-resistant tomato varieties. This is the most effective long-term strategy, though resistance levels can vary.",
+                "Week 2: Fungicide Application: Apply fungicides preventatively, especially during periods of cool, wet weather. Systemic fungicides (e.g., those containing propamocarb, dimethomorph) and protectant fungicides (e.g., chlorothalonil, mancozeb) are crucial. Follow a strict spray schedule.",
+                "Week 3: Sanitation: Remove and destroy all infected plant material immediately upon detection. Do not compost infected plants. Ensure volunteer potato and tomato plants are also removed.",
+                "Week 4: Pruning: Prune lower leaves to improve air circulation and reduce splash-up of soil-borne spores. Ensure good plant spacing.",
+                "Week 5: Water Management: Avoid overhead irrigation, which promotes leaf wetness. If necessary, water early in the day to allow foliage to dry quickly. Ensure good drainage in the field.",
+                "Week 6: Crop Rotation: Implement a crop rotation of at least three years with non-host crops to reduce the survival of the pathogen in the soil from infected tubers or fruit.",
+                "Week 7: Community Awareness: Be aware of late blight outbreaks in your region and communicate with local agricultural extension services. This disease can spread rapidly over large areas, requiring regional coordination."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Leaf Mold",
+        "cause": "Tomato Leaf Mold, caused by the fungus Passalora fulva (formerly Cladosporium fulvum), is a common disease primarily affecting tomato leaves, especially in greenhouses or high-humidity environments. It is characterized by olive-green to brown, velvety fungal growth on the undersides of leaves, corresponding to yellowish spots on the upper surfaces. Severe infections can lead to leaf yellowing, browning, and premature defoliation, reducing photosynthesis and fruit quality. The fungus thrives in high humidity and can be spread by air currents or splashing water.",
+        "cure": {
+            "title": "Managing Tomato Leaf Mold",
+            "steps": [
+                "Week 1: Improve Ventilation: Ensure good air circulation around tomato plants, especially in greenhouses. Use fans, proper plant spacing, and pruning to reduce humidity.",
+                "Week 2: Resistant Varieties: Plant leaf mold-resistant tomato varieties. This is the most effective long-term control measure, as many resistant varieties are available.",
+                "Week 3: Fungicide Application: Apply fungicides containing active ingredients like chlorothalonil or copper-based products preventatively or at the first sign of disease. Follow label instructions carefully.",
+                "Week 4: Sanitation: Remove and destroy infected leaves and plant debris. Do not compost infected material. Clean greenhouse structures thoroughly between crops.",
+                "Week 5: Watering Practices: Water plants at the base to avoid wetting the foliage. If overhead irrigation is used, water early in the day to allow leaves to dry quickly.",
+                "Week 6: Pruning: Prune lower leaves that touch the soil and any dense foliage to further improve air circulation and reduce humidity within the plant canopy.",
+                "Week 7: Humidity Control: In greenhouse settings, manage humidity levels by venting and heating, especially during the night, to prevent condensation on leaves, which favors fungal growth."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Septoria Leaf Spot",
+        "cause": "Tomato Septoria Leaf Spot, caused by the fungus Septoria lycopersici, is a widespread and common foliar disease affecting tomato plants. It typically begins on older, lower leaves and is characterized by numerous small, circular spots with dark brown borders and tan or gray centers, often with tiny black dots (pycnidia) visible within the spots. These spots can coalesce, leading to severe yellowing, browning, and premature defoliation, which can significantly reduce fruit size and yield. The fungus overwinters in infected plant debris and spreads via splashing water.",
+        "cure": {
+            "title": "Controlling Septoria Leaf Spot in Tomatoes",
+            "steps": [
+                "Week 1: Sanitation: Remove and destroy infected lower leaves as soon as symptoms appear. At the end of the season, thoroughly clean up all plant debris, as the fungus overwinters in residue.",
+                "Week 2: Fungicide Application: Apply fungicides containing active ingredients like chlorothalonil, mancozeb, or copper-based products preventatively or at the first sign of disease. Reapply every 7-10 days, especially during wet periods.",
+                "Week 3: Watering Practices: Water plants at the base using drip irrigation or soaker hoses to avoid wetting the foliage. If overhead irrigation is used, water early in the day to allow leaves to dry quickly.",
+                "Week 4: Crop Rotation: Practice crop rotation with non-solanaceous crops for at least two to three years to reduce the inoculum load in the soil.",
+                "Week 5: Mulching: Apply a layer of organic mulch (e.g., straw, shredded leaves) around the base of plants to create a barrier between soil-borne spores and lower leaves, reducing splash dispersal.",
+                "Week 6: Pruning: Prune lower leaves that touch the soil to improve air circulation and reduce the chance of spores splashing onto them from the ground.",
+                "Week 7: Plant Spacing: Ensure adequate spacing between tomato plants to promote good air circulation, which helps reduce humidity and leaf wetness, making the environment less favorable for fungal development."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Spider Mites Two-Spotted Spider Mite",
+        "cause": "The Two-Spotted Spider Mite (Tetranychus urticae) is a common and highly destructive pest of tomato plants, as well as many other crops. These tiny arachnids feed on the undersides of leaves, piercing plant cells and sucking out chlorophyll, leading to characteristic stippling (tiny yellow or white dots) on the upper leaf surface. As infestations grow, leaves may turn yellow, bronze, or brown, become distorted, and eventually drop. Fine webbing on leaves and stems is a clear sign of severe infestation. Spider mites thrive in hot, dry conditions and can reproduce rapidly, causing significant damage in a short period.",
+        "cure": {
+            "title": "Managing Two-Spotted Spider Mites on Tomatoes",
+            "steps": [
+                "Week 1: Water Spray: Use a strong stream of water to dislodge mites from the undersides of leaves. Repeat every few days, especially in the morning, to physically remove pests.",
+                "Week 2: Insecticidal Soap/Neem Oil: Apply insecticidal soap or neem oil thoroughly to all plant surfaces, especially the undersides of leaves. Repeat applications every 5-7 days until mites are controlled.",
+                "Week 3: Pruning: Remove and destroy heavily infested leaves or plant parts to reduce mite populations. Do not compost infested material.",
+                "Week 4: Biological Control: Introduce natural predators such as predatory mites (e.g., Phytoseiulus persimilis) or ladybugs. These beneficial insects can effectively control spider mite populations.",
+                "Week 5: Humidity Management: Increase humidity around plants, as spider mites prefer dry conditions. Misting foliage or placing plants on pebble trays with water can help deter them.",
+                "Week 6: Weed Control: Keep the area around tomato plants free of weeds, as many weeds can serve as alternative hosts for spider mites.",
+                "Week 7: Regular Scouting: Continuously monitor plants for early signs of spider mite infestation, particularly during hot, dry weather. Early detection and consistent intervention are key to preventing severe damage."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Target Spot",
+        "cause": "Tomato Target Spot, caused by the fungus Corynespora cassiicola, is a significant foliar disease affecting tomato plants, particularly in warm, humid regions. It is characterized by small, circular, dark brown spots on leaves that enlarge and develop distinct concentric rings, resembling a 'target' or 'bull's-eye' pattern. These lesions can coalesce, leading to severe yellowing, browning, and premature defoliation, which can significantly reduce fruit size and yield. The fungus can also infect stems and fruit, causing sunken, dark lesions.",
+        "cure": {
+            "title": "Controlling Target Spot in Tomatoes",
+            "steps": [
+                "Week 1: Crop Rotation: Practice a crop rotation of at least two to three years with non-solanaceous crops to reduce the inoculum load in the soil. The fungus can survive in plant debris.",
+                "Week 2: Fungicide Application: Apply fungicides containing active ingredients like chlorothalonil or mancozeb preventatively or at the first sign of disease. Reapply every 7-10 days, especially during wet periods.",
+                "Week 3: Sanitation: Remove and destroy infected leaves and plant debris as soon as symptoms appear and at the end of the growing season. Do not compost infected material.",
+                "Week 4: Watering Practices: Water plants at the base using drip irrigation or soaker hoses to avoid wetting the foliage. If overhead irrigation is used, water early in the day to allow leaves to dry quickly.",
+                "Week 5: Improve Air Circulation: Ensure adequate spacing between tomato plants and prune lower leaves to improve air circulation within the plant canopy, reducing humidity and leaf wetness.",
+                "Week 6: Resistant Varieties: While highly resistant varieties are not widely available, some tomato varieties may show more tolerance to Target Spot. Consult local extension services.",
+                "Week 7: Nutrient Management: Ensure balanced nutrition for the plants. Healthy, vigorous plants are better able to withstand disease pressure. Avoid excessive nitrogen, which can promote lush, susceptible growth."
+            ]
+        }
+    },
+
+   {
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "cause": "Tomato Yellow Leaf Curl Virus (TYLCV) is a devastating viral disease affecting tomato plants worldwide, transmitted exclusively by the whitefly Bemisia tabaci. Infected plants exhibit severe stunting, upward curling and yellowing of leaf margins, reduced leaf size, and flower drop, leading to significantly reduced fruit set and yield. The virus cannot be cured once a plant is infected, making prevention and vector control paramount for managing this disease.",
+    "cure": {
+        "title": "Managing Tomato Yellow Leaf Curl Virus (TYLCV)",
+        "steps": [
+            "Week 1: Resistant Varieties: Plant TYLCV-resistant tomato varieties. This is the most effective long-term strategy for managing the virus, as many resistant hybrids are now available.",
+            "Week 2: Whitefly Control: Implement aggressive whitefly control measures. This includes using insecticides (rotating modes of action), reflective mulches, and biological control agents (e.g., parasitic wasps).",
+            "Week 3: Physical Barriers: Use fine-mesh insect netting or row covers to exclude whiteflies from young plants. Ensure covers are sealed properly to prevent whitefly entry.",
+            "Week 4: Remove Infected Plants: Immediately remove and destroy any tomato plants showing symptoms of TYLCV. This reduces the source of the virus and prevents further spread by whiteflies.",
+            "Week 5: Weed Control: Keep the area around tomato plants free of weeds, as many weeds can serve as alternative hosts for whiteflies and potentially the virus.",
+            "Week 6: Sanitation: Clean up all plant debris at the end of the season. Ensure tools are clean, though mechanical transmission of TYLCV is rare.",
+            "Week 7: Monitor and Scout: Regularly scout for whiteflies on the undersides of leaves and for early symptoms of TYLCV. Early detection of whiteflies allows for timely intervention before virus transmission occurs."
+        ]
+    }
+},
+    
+    {
+        "name": "Tomato Tomato Mosaic Virus",
+        "cause": "Tomato Mosaic Virus (ToMV) is a highly contagious viral disease affecting tomato plants, as well as other solanaceous crops. It is easily spread through mechanical means, such as contact with infected plants, contaminated tools, or even human hands. Symptoms include mosaic patterns of light and dark green on leaves, leaf distortion, stunting, and sometimes fruit abnormalities. While rarely lethal, ToMV can significantly reduce plant vigor and yield quality, and it can persist in plant debris and soil for extended periods.",
+        "cure": {
+            "title": "Managing Tomato Mosaic Virus (ToMV)",
+            "steps": [
+                "Week 1: Resistant Varieties: Plant ToMV-resistant tomato varieties. This is the most effective way to prevent the disease, as resistance genes are available.",
+                "Week 2: Sanitation: Practice strict sanitation. Wash hands thoroughly with soap and water after handling any potentially infected plants. Disinfect tools (e.g., with a 10% bleach solution) between plants.",
+                "Week 3: Remove Infected Plants: Immediately remove and destroy any plants showing symptoms of ToMV. Do not compost infected plants, as the virus can survive in debris.",
+                "Week 4: Avoid Tobacco Products: If you use tobacco products, wash your hands thoroughly before handling tomato plants, as tobacco can carry Tobacco Mosaic Virus (TMV), which is closely related to ToMV and can infect tomatoes.",
+                "Week 5: Crop Rotation: While ToMV can survive in soil, crop rotation with non-solanaceous crops can help reduce inoculum levels over time. Avoid planting tomatoes in the same spot annually.",
+                "Week 6: Weed Control: Keep the area around tomato plants free of weeds, as some weeds can serve as alternative hosts for the virus.",
+                "Week 7: Seed Source: Use certified disease-free seeds or transplants from reputable sources to ensure you are not introducing the virus into your garden."
+            ]
+        }
+    },
+    {
+        "name": "Tomato Healthy",
+        "cause": "This tomato plant is in excellent health, displaying vigorous growth, lush green foliage, and the development of healthy flowers and fruit. A healthy tomato plant is free from any visible signs of disease, pest damage, or nutritional deficiencies, indicating optimal growing conditions and proper care. Maintaining this state is essential for maximizing fruit production.",
+        "cure": {
+            "title": "Maintaining Optimal Health for Tomato Plants",
+            "steps": [
+                "Week 1: Sunlight: Ensure the plant receives at least 6-8 hours of direct sunlight daily. Tomatoes thrive in full sun.",
+                "Week 2: Watering: Provide consistent and adequate watering, especially during flowering and fruiting. Keep the soil consistently moist but not waterlogged.",
+                "Week 3: Soil: Plant in well-drained, fertile soil rich in organic matter. A soil pH between 6.0 and 6.8 is ideal.",
+                "Week 4: Fertilization: Fertilize with a balanced fertilizer, or one slightly higher in phosphorus and potassium, once fruits begin to set. Avoid excessive nitrogen.",
+                "Week 5: Support: Provide support (stakes, cages, or trellises) for plants as they grow and bear fruit to prevent branches from breaking and to keep fruit off the ground.",
+                "Week 6: Pest and Disease Monitoring:** Regularly inspect plants for common pests (e.g., hornworms, aphids) and diseases (e.g., early blight, late blight). Implement integrated pest management strategies if issues arise.",
+                "Week 7: Pruning:** Prune suckers (side shoots) to direct energy into fruit production and improve air circulation. Remove lower leaves that touch the soil to prevent disease."
+            ]
+        }
+    }
+]
+

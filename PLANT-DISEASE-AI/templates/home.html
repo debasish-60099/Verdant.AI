@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>Vaerdant AI - Plant Disease Recognition</title>
+    <link rel="icon" href="../static/images/logo.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="#">
+                <img src="../static/images/logo.svg" alt="Vaerdant AI" width="35" height="35" class="me-2 logo-spin">
+                <span class="brand-text">Vaerdant AI</span>
+            </a>
+
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+        <div class="hero-background"></div>
+        <div class="hero-overlay"></div>
+        <div class="container">
+            <div class="row min-vh-100 align-items-center">
+                <div class="col-lg-6">
+                    <div class="hero-content">
+                        <h1 class="hero-title">
+                            <span class="text-gradient">Vaerdant AI</span><br>
+                            Plant Disease Recognition
+                        </h1>
+                        <p class="hero-subtitle">
+                            Advanced AI-powered plant disease detection system. Upload an image and get instant diagnosis with professional treatment recommendations.
+                        </p>
+                        <div class="hero-stats">
+                            <div class="stat-item">
+                                <i class="fas fa-leaf"></i>
+                                <span>40+ Diseases</span>
+                            </div>
+                            <div class="stat-item">
+                                <i class="fas fa-brain"></i>
+                                <span>AI Powered</span>
+                            </div>
+                            <div class="stat-item">
+                                <i class="fas fa-clock"></i>
+                                <span>Instant Results</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="upload-section">
+                        <div class="upload-card">
+                            <div class="upload-header">
+                                <i class="fas fa-cloud-upload-alt upload-icon"></i>
+                                <h3>Upload Plant Image</h3>
+                                <p>Drag & drop or click to select an image</p>
+                            </div>
+                            
+                            <form action="/upload/" method="POST" enctype="multipart/form-data" class="upload-form">
+                                <div class="file-upload-wrapper">
+                                    <input type="file" accept="image/png, image/jpeg" name="img" id="fileInput" required class="file-input">
+                                    <label for="fileInput" class="file-label">
+                                        <div class="upload-area" id="uploadArea">
+                                            <i class="fas fa-image upload-placeholder-icon"></i>
+                                            <span class="upload-text">Choose Image or Drag Here</span>
+                                            <span class="upload-subtext">PNG, JPG up to 10MB</span>
+                                        </div>
+                                    </label>
+                                </div>
+                                
+                                <div class="image-preview" id="imagePreview" style="display: none;">
+                                    <img id="previewImg" src="" alt="Preview">
+                                    <button type="button" class="remove-image" id="removeImage">
+                                        <i class="fas fa-times"></i>
+                                    </button>
+                                </div>
+                                
+                                <button type="submit" class="btn-analyze" id="analyzeBtn" disabled>
+                                    <span class="btn-text">
+                                        <i class="fas fa-microscope me-2"></i>
+                                        Analyze Plant
+                                    </span>
+                                    <span class="btn-loading" style="display: none;">
+                                        <i class="fas fa-spinner fa-spin me-2"></i>
+                                        Analyzing...
+                                    </span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    {% if result %}
+    <section class="results-section">
+        <div class="container">
+            <div class="results-card">
+                <div class="results-header">
+                    <h2><i class="fas fa-search-plus me-2"></i>Analysis Results</h2>
+                </div>
+                
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="image-result">
+                            <img src="{{imagepath}}" alt="Analyzed Plant" class="result-image">
+                            <div class="image-overlay">
+                                <button class="btn-zoom" onclick="openImageModal()">
+                                    <i class="fas fa-expand"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-7">
+                        <div class="diagnosis-content">
+                            <div class="disease-name">
+                                <h3>
+                                    <i class="fas fa-bug me-2"></i>
+                                    {{prediction['name']}}
+                                </h3>
+                            </div>
+                            
+                            <div class="disease-info">
+                                <h4><i class="fas fa-info-circle me-2"></i>About This Disease</h4>
+                                <p>{{prediction['cause']}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Treatment Section - Full Width -->
+                <div class="treatment-section-full">
+                    {% if prediction['cure'] is mapping %}
+                        <h4><i class="fas fa-medkit me-2"></i>{{prediction['cure']['title']}}</h4>
+                        <div class="treatment-steps-grid">
+                            {% for step in prediction['cure']['steps'] %}
+                                <div class="step-item-full">
+                                    <div class="step-number">{{loop.index}}</div>
+                                    <div class="step-content">{{step}}</div>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        <h4><i class="fas fa-medkit me-2"></i>Treatment</h4>
+                        <p>{{prediction['cure']}}</p>
+                    {% endif %}
+                </div>
+                
+                <!-- Product Suggestion - Always Visible -->
+                <div class="product-suggestion">
+                    <div class="suggestion-header">
+                        <h4><i class="fas fa-shopping-cart me-2"></i>Recommended Product</h4>
+                        <p>Professional-grade treatment solution for {{prediction['name']}}</p>
+                    </div>
+                    
+                    <div class="product-card">
+                        <div class="product-image">
+                            <img src="../static/images/image.png" alt="Recommended Product">
+                        </div>
+                        <div class="product-info">
+                            <h5>Premium Treatment Solution</h5>
+                            <p>Specially formulated for {{prediction['name']}} treatment</p>
+                            <div class="product-features">
+                                <span class="feature-tag"><i class="fas fa-check"></i> Fast Acting</span>
+                                <span class="feature-tag"><i class="fas fa-check"></i> Organic</span>
+                                <span class="feature-tag"><i class="fas fa-check"></i> Safe</span>
+                            </div>
+                        </div>
+                        <div class="product-action">
+                            <button class="btn-order" onclick="orderProduct()">
+                                <i class="fas fa-cart-plus me-2"></i>
+                                Order Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="action-buttons">
+                    <button class="btn-secondary" onclick="analyzeAnother()">
+                        <i class="fas fa-redo me-2"></i>
+                        Analyze Another
+                    </button>
+                    <button class="btn-primary" onclick="downloadReport()">
+                        <i class="fas fa-download me-2"></i>
+                        Download Report
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2025 Vaerdant AI. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Image Modal -->
+    <div class="modal fade" id="imageModal" tabindex="-1">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Plant Image</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <img src="{{imagepath}}" alt="Plant Image" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../static/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // File upload functionality
+        const fileInput = document.getElementById('fileInput');
+        const uploadArea = document.getElementById('uploadArea');
+        const imagePreview = document.getElementById('imagePreview');
+        const previewImg = document.getElementById('previewImg');
+        const removeImage = document.getElementById('removeImage');
+        const analyzeBtn = document.getElementById('analyzeBtn');
+
+        // Drag and drop functionality
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('drag-over');
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('drag-over');
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('drag-over');
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                handleFileSelect(files[0]);
+            }
+        });
+
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFileSelect(e.target.files[0]);
+            }
+        });
+
+        function handleFileSelect(file) {
+            if (file && file.type.startsWith('image/')) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    previewImg.src = e.target.result;
+                    uploadArea.style.display = 'none';
+                    imagePreview.style.display = 'block';
+                    analyzeBtn.disabled = false;
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+
+        removeImage.addEventListener('click', () => {
+            fileInput.value = '';
+            uploadArea.style.display = 'flex';
+            imagePreview.style.display = 'none';
+            analyzeBtn.disabled = true;
+        });
+
+        // Form submission with loading state and auto-scroll
+        document.querySelector('.upload-form').addEventListener('submit', (e) => {
+            const btnText = document.querySelector('.btn-text');
+            const btnLoading = document.querySelector('.btn-loading');
+            
+            btnText.style.display = 'none';
+            btnLoading.style.display = 'inline-flex';
+            analyzeBtn.disabled = true;
+            
+            // Auto-scroll to results after form submission
+            setTimeout(() => {
+                const resultsSection = document.querySelector('.results-section');
+                if (resultsSection) {
+                    resultsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            }, 1000);
+        });
+
+        // Smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Navbar background on scroll
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('mainNav');
+            if (window.scrollY > 100) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // Interactive functions
+        function openImageModal() {
+            const modal = new bootstrap.Modal(document.getElementById('imageModal'));
+            modal.show();
+        }
+
+        function analyzeAnother() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            setTimeout(() => {
+                location.reload();
+            }, 500);
+        }
+
+        function downloadReport() {
+            // Get the prediction data
+            const diseaseName = document.querySelector('.disease-name h3').textContent.trim();
+            const diseaseInfo = document.querySelector('.disease-info p').textContent.trim();
+            const treatmentTitle = document.querySelector('.treatment-section-full h4').textContent.trim();
+            const treatmentSteps = Array.from(document.querySelectorAll('.step-item-full .step-content')).map(step => step.textContent.trim());
+            
+            // Create report content
+            const reportContent = `
+VAERDANT AI - PLANT DISEASE ANALYSIS REPORT
+==========================================
+
+Date: ${new Date().toLocaleDateString()}
+Time: ${new Date().toLocaleTimeString()}
+
+DIAGNOSIS
+---------
+Disease: ${diseaseName}
+
+DESCRIPTION
+-----------
+${diseaseInfo}
+
+TREATMENT PLAN
+--------------
+${treatmentTitle}
+
+${treatmentSteps.map((step, index) => `${index + 1}. ${step}`).join('\n\n')}
+
+RECOMMENDATIONS
+---------------
+- Follow the treatment plan consistently
+- Monitor plant progress regularly
+- Consult with agricultural experts if symptoms persist
+- Use recommended products for best results
+
+Generated by Vaerdant AI Plant Disease Detection System
+Visit us at: https://vaerdant.ai
+            `;
+            
+            // Create and download the file
+            const blob = new Blob([reportContent], { type: 'text/plain' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `Plant_Disease_Report_${new Date().toISOString().split('T')[0]}.txt`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+        }
+
+        function orderProduct() {
+            alert('Redirecting to product page...');
+        }
+
+        // Animate elements on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('animate-in');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.feature-card, .results-card, .upload-card').forEach(el => {
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>
+

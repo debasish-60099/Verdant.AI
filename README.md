@@ -1,4 +1,4 @@
-# 🌱 VERDANT,AI
+# 🌱 VERDANT.AI
 
 *A one‑stop, AI‑powered platform that helps West Bengal’s farmers and home‑gardeners diagnose plant problems, plan crops, buy inputs, and stay connected.*
 

@@ -20,8 +20,6 @@ The front-end developer has made the following UI/UX improvements to enhance the
 - Implemented a cohesive color gradient to maintain visual uniformity and enhance aesthetics across the interface.
 
 
----
-
 ### ⚙️ How to Run the Project (Frontend)
 
 To set up and run the front-end locally, follow these steps:

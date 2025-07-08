@@ -17,8 +17,7 @@ This project is an AI-powered web application designed to detect leaf diseases u
 Follow the steps below to run the app on your own system:
 
 ```bash
-# Step 1: Remove paste.txt files and paste the ai/ml dataset that i send in the wp group in the model portions
-
+# Step 1: Remove paste.txt files and paste the ai/ml dataset in the model portions that i send in the wp group 
 # Step 2: Install dependencies
 pip install flask tensorflow numpy
 

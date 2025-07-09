@@ -1,45 +1,44 @@
 # 🌱 VERDANT.AI
 
-*A one‑stop, AI‑powered platform that helps West Bengal’s farmers and home‑gardeners diagnose plant problems, plan crops, buy inputs, and stay connected.*
+*A one-stop, AI-powered platform helping West Bengal's farmers and home-gardeners diagnose plant problems, plan crops, buy inputs, and stay connected.*
 
-## Why VERDANT-AI?
-Agriculture in West Bengal ranges from large‑scale paddy fields to balcony gardens. AgroAssist merges AI vision, voice assistants, data science, and e‑commerce so that anyone—professional farmer or hobbyist—can:
+## Why VERDANT-AI?
+Agriculture in West Bengal ranges from large-scale paddy fields to balcony gardens. VERDANT.AI merges AI vision, voice assistants, data science, and e-commerce to empower both professional farmers and hobbyists with:
 
-* **Diagnose** plant diseases instantly from a photo.  
-* **Predict** the best crops or plants to grow in their district and soil type.  
-* **Learn & Play** through gamified quizzes.  
-* **Shop** ferti‑inputs directly from in‑app recommendations.  
-* **Connect** with peers via Snapchat‑style community stories.  
-* **Plan** around hyper‑local weather forecasts.
+- **Diagnose** plant diseases instantly from photos
+- **Predict** optimal crops based on soil/weather conditions
+- **Learn** through gamified quizzes
+- **Shop** for recommended agricultural inputs
+- **Connect** with peers via community features
+- **Plan** using hyper-local weather forecasts
 
-## Core Features
+---
 
-### For Farmers
-| 🌱 | Feature | Description |
-|---|---------|-------------|
-| 1 | **Voice Chatbot <br/>Research Mode** | *Multilingual Q&A:* Ask questions in any Indian language (Bengali, English, Hindi, Tamil, etc.) via voice or text—get instant, accurate responses.<br/>**Research Mode (Environment Focus)**:<br/>Dive deep into best practices, market trends, and research papers (curated for environmental topics).<br/>Generate & download reports in PDF format [ 3 free uses ].<br/>PDF download [ 1 free use ].<br/>For Subscribe for unlimited access. |
-| 2 | **Weather‑Forecasting** | 7‑day weather report generated for any places.<br/>Showing UV-Index<br/> PDF download report generation [ 3 free Uses]<br/> Alert for Thunder-storming for that particulars Day<br/>For Subscribe for unlimited access. |
-| 3 | **AI Plant Disease Detection<br/>Fertlizers & Pestricide recommendation <br/> user can ordered them like ecommerce** | Upload or snap a leaf/plant photo <br/> Show disease name, summary, and **7‑day care plan** [ 3 Free Uses ].<br/>  Generates a printable PDF [ 1 Free Uses ] <br/> Recommends matching pesticides/fertilisers that are avliavle in our store <br/>  Users order them via our built‑in marketplace and customers get their product through a partnership supply chain <br/> No refund and Excahnge Product.<br/>For Subscribe for unlimited access. |
-| 4 | **Crop Predictions<br/>Depening on the  Soil NPK , Rainfall , PH , Location , Choice Feeling** | Enter the Soil NPK<br/>Enter the Rainfall value<br/>Enter the Soil PH<br/>Enter the Location<br/> Enter the Choice-Feelings<br/>Generate Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. ,br/> Download the PDF [ 1 Free Uses ]<br/>For Subscribe for unlimited access.|
-| 5 | **Crop Predictions<br/>Uploading the  Soil Image** | Uploading  the Soil Image<br/>Enter the Choice-Feelings<br/>Generate Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. ,<br/> Download the PDF [ 1 Free Uses ]<br/>For Subscribe for unlimited access.|
-| 6 | **Crop Price Predictions** | Shoows all time best 5 demading crops with their current budget/ql<br/>There are 40 crops are present on cliking it opens the current price anf graphical represebntations for future and upcoming year<br/>For Subscribe for unlimited access.|
-| 7 | **Verdant Shop Center** | Sell fertiliser & pesticide like ecommerce with no refund and exchange.<br/>For Subscribe for unlimited access. |
-| 8 | **Whatsapp Community** | Share stories, tips, or field snapshots with one another. [ completely lock ]<br/>For Subscribe for unlimited access. |
-| 9 | **Gamified Quiz For Recovering The 100+ Crop/Plant Disease** | After selecting a particular desease Sections<br/> 10‑question quiz auto‑generates to reinforce knowledge<br/> After finished Q + A can be exported as PDF.<br/>download reports in PDF format [ 3 free uses ]<br/>For Subscribe for unlimited access. |
+## 🌾 Core Features
 
+### For Farmers
+| #  | Feature | Description |
+|----|---------|-------------|
+| 1️⃣ | **Multilingual Voice Assistant**<br/>*(With Research Mode)* | - Ask questions in any Indian language via voice/text<br/>- **Research Mode** provides deep dives into:<br/>  • Best practices<br/>  • Market trends<br/>  • Environmental research papers<br/>- **Downloads**:<br/>  • 3 free PDF reports<br/>  • 1 free PPT report<br/>- *Subscription required for unlimited access* |
+| 2️⃣ | **Hyper-Local Weather Forecasting** | - 7-day weather predictions<br/>- UV Index monitoring<br/>- Storm alerts<br/>- 3 free PDF reports<br/>- *Subscription required for unlimited access* |
+| 3️⃣ | **AI Plant Doctor**<br/>*(With E-Commerce Integration)* | - Upload plant photos for instant diagnosis<br/>- Get 7-day treatment plans (3 free uses)<br/>- Receive fertilizer/pesticide recommendations<br/>- Direct in-app purchasing<br/>- *No refunds/exchanges*<br/>- 1 free PDF report<br/>- *Subscription required for unlimited access* |
+| 4️⃣ | **Crop Prediction**<br/>*(Soil Data Input)* | - Input soil NPK, pH, rainfall data<br/>- Get personalized crop recommendations<br/>- Includes profit projections<br/>- 1 free PDF report<br/>- *Subscription required for unlimited access* |
+| 5️⃣ | **Crop Prediction**<br/>*(Image Analysis)* | - Upload soil images<br/>- Get crop suggestions<br/>- 1 free PDF report<br/>- *Subscription required for unlimited access* |
+| 6️⃣ | **Crop Price Intelligence** | - Real-time top 5 crop rankings<br/>- Detailed price analytics<br/>- Future projections<br/>- Interactive graphs<br/>- *Subscription required for access* |
+| 7️⃣ | **Verdant Marketplace** | - Fertilizer/pesticide e-commerce<br/>- *No refunds/exchanges*<br/>- *Subscription required for access* |
+| 8️⃣ | **Community Hub** | - WhatsApp-style sharing<br/>- Knowledge exchange<br/>- *Subscription required for access* |
+| 9️⃣ | **Plant Health Quizzes** | - Gamified learning<br/>- 10-question formats<br/>- 3 free PDF exports<br/>- *Subscription required for unlimited access* |
 
-
-### For Gardeners
-Most farmer features are mirrored for smaller‑scale gardening, plus plant‑specific terminology.
-
-### For Farmers
-| 🌱 | Feature | Description |
-|---|---------|-------------|
-| 1 | **Voice Chatbot <br/>Research Mode** | *Multilingual Q&A:* Ask questions in any Indian language (Bengali, English, Hindi, Tamil, etc.) via voice or text—get instant, accurate responses.<br/>**Research Mode (Environment Focus)**:<br/>Dive deep into best practices, market trends, and research papers (curated for environmental topics).<br/>Generate & download reports in PDF format [ 3 free uses ].<br/>PDF download [ 1 free use ].<br/>For Subscribe for unlimited access. |
-| 2 | **Weather‑Forecasting** | 7‑day weather report generated for any places.<br/>Showing UV-Index<br/> PDF download report generation [ 3 free Uses]<br/> Alert for Thunder-storming for that particulars Day<br/>For Subscribe for unlimited access. |
-| 3 | **AI Plant Disease Detection<br/>Fertlizers & Pestricide recommendation <br/> user can ordered them like ecommerce** | Upload or snap a leaf/plant photo <br/> Show disease name, summary, and **7‑day care plan** [ 3 Free Uses ].<br/>  Generates a printable PDF [ 1 Free Uses ] <br/> Recommends matching pesticides/fertilisers that are avliavle in our store <br/>  Users order them via our built‑in marketplace and customers get their product through a partnership supply chain <br/> No refund and Excahnge Product.<br/>For Subscribe for unlimited access. |
-| 4 | **Plant Outdoor Predictions<br/>Depening on the  Soil NPK , Rainfall , PH , Location , Choice Feeling** | Enter the Soil NPK<br/>Enter the Rainfall value<br/>Enter the Soil PH<br/>Enter the Location<br/> Enter the Choice-Feelings<br/>Generate Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. ,br/> Download the PDF [ 1 Free Uses ]<br/>For Subscribe for unlimited access.|
-| 5 | **Plant Indoor Predictions<br/>Uploading the  Spot Image** | Uploading  the Spot Image<br/>Enter the Choice-Feelings suggestions Plant only <br/>Generate Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. ,<br/> Download the PDF [ 1 Free Uses ]<br/>For Subscribe for unlimited access.|
-| 7 | **Verdant Shop Center** | Sell fertiliser & pesticide like ecommerce with no refund and exchange [ completely lock ].<br/>For Subscribe for unlimited access. |
-| 8 | **Whatsapp Community** | Share stories, tips, or field snapshots with one another. [ completely lock ]<br/>For Subscribe for unlimited access. |
-| 9 | **Gamified Quiz For Recovering The 100+ Crop/Plant Disease** | After selecting a particular desease Sections<br/> 10‑question quiz auto‑generates to reinforce knowledge<br/> After finished Q + A can be exported as PDF.<br/>download reports in PDF format [ 3 free uses ]<br/>For Subscribe for unlimited access. |
+### For Home Gardeners
+All farmer features adapted for small-scale gardening, plus:
+| #  | Feature | Description |
+|----|---------|-------------|
+| 1️⃣ | **Multilingual Voice Assistant**<br/>*(With Research Mode)* | - Ask questions in any Indian language via voice/text<br/>- **Research Mode** provides deep dives into:<br/>  • Best practices<br/>  • Market trends<br/>  • Environmental research papers<br/>- **Downloads**:<br/>  • 3 free PDF reports<br/>  • 1 free PPT report<br/>- *Subscription required for unlimited access* |
+| 2️⃣ | **Hyper-Local Weather Forecasting** | - 7-day weather predictions<br/>- UV Index monitoring<br/>- Storm alerts<br/>- 3 free PDF reports<br/>- *Subscription required for unlimited access* |
+| 3️⃣ | **AI Plant Doctor**<br/>*(With E-Commerce Integration)* | - Upload plant photos for instant diagnosis<br/>- Get 7-day treatment plans (3 free uses)<br/>- Receive fertilizer/pesticide recommendations<br/>- Direct in-app purchasing<br/>- *No refunds/exchanges*<br/>- 1 free PDF report<br/>- *Subscription required for unlimited access* |
+| 4️⃣ | **Plant Outdoor Prediction**<br/>*(Soil Data Input)* | - Input soil NPK, pH, rainfall data<br/>- Get personalized plant recommendations<br/>- Includes profit projections<br/>- 1 free PDF report<br/>- *Subscription required for unlimited access* |
+| 5️⃣ | **Plant Indoor Prediction**<br/>*( Spot Image Analysis)* | - Upload spot images<br/>- Get plant suggestions<br/>- 1 free PDF report<br/>- *Subscription required for unlimited access* |
+| 6️⃣ | **Crop Price Intelligence** | - Real-time top 5 crop rankings<br/>- Detailed price analytics<br/>- Future projections<br/>- Interactive graphs<br/>- *Subscription required for access* |
+| 7️⃣ | **Verdant Marketplace** | - Fertilizer/pesticide e-commerce<br/>- *No refunds/exchanges*<br/>- *Subscription required for access* |
+| 8️⃣ | **Community Hub** | - WhatsApp-style sharing<br/>- Knowledge exchange<br/>- *Subscription required for access* |
+| 9️⃣ | **Plant Health Quizzes** | - Gamified learning<br/>- 10-question formats<br/>- 3 free PDF exports<br/>- *Subscription required for unlimited access* |

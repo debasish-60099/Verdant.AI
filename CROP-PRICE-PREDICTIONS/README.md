@@ -1,6 +1,4 @@
-# ApnaAnaaj (Crop_Prediction)
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
-
+# VERDANT AI
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
   - Crop detailed forecast upto next 12 months

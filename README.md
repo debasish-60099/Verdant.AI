@@ -17,14 +17,16 @@ Agriculture in West Bengal ranges from large‑scale paddy fields to balcony ga
 ### For Farmers
 | 🌱 | Feature | Description |
 |---|---------|-------------|
-| 1 | **Voice Chatbot <br/>+ Research Mode** | *Multilingual Q&A:* Ask questions in any Indian language (Bengali, English, Hindi, Tamil, etc.) via voice or text—get instant, accurate responses.<br/>**Research Mode (Environment Focus)**:<br/>Dive deep into best practices, market trends, and research papers (curated for environmental topics).<br/>Free Tier:<br/>Generate & download reports in PDF format (3 free uses).<br/>PDF download (1 free use).<br/>Post-Free Tier: Subscribe for unlimited access. |
-| 2 | **AI Plant Disease Detection<br/>Fertlizers & Pestricide recommendation <br/> user can ordered them like ecommerce** | Upload or snap a leaf/plant photo <br/> Show disease name, summary, and **7‑day care plan** [ 3 Free Uses ].<br/>  Generates a printable PDF [ ! Free Uses ] <br/> Recommends matching pesticides/fertilisers that are avliavle in our store <br/>  Users order them via our built‑in marketplace and customers get their product through a partnership supply chain <br/> No refund and Excahnge Product. |
-| 3 | **Crop Predictions** | Enter your West Bengal district ➜ choose intended crop ➜ upload soil photo. Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. |
-| 4 | **Gamified Quiz** | After detection, a 10‑question quiz auto‑generates to reinforce knowledge; finished Q + A can be exported as PDF. |
-| 5 | **Useful Products** | Curated fertiliser & pesticide catalog synced with detection/prediction modules. |
-| 6 | **Marketplace** | End‑to‑end order flow: product listing → order → supply chain → delivery. |
-| 7 | **Snapchat Community** | Share stories, tips, or field snapshots that disappear after 24 h. |
-| 8 | **Weather‑Forecasting** | 7‑day, district‑level forecast embedded in dashboard. |
+| 1 | **Voice Chatbot <br/>Research Mode** | *Multilingual Q&A:* Ask questions in any Indian language (Bengali, English, Hindi, Tamil, etc.) via voice or text—get instant, accurate responses.<br/>**Research Mode (Environment Focus)**:<br/>Dive deep into best practices, market trends, and research papers (curated for environmental topics).<br/>Free Tier:<br/>Generate & download reports in PDF format (3 free uses).<br/>PDF download (1 free use).<br/>Post-Free Tier: Subscribe for unlimited access. |
+| 2 | **Weather‑Forecasting** | 7‑day, district‑level forecast embedded in dashboard. |
+| 3 | **AI Plant Disease Detection<br/>Fertlizers & Pestricide recommendation <br/> user can ordered them like ecommerce** | Upload or snap a leaf/plant photo <br/> Show disease name, summary, and **7‑day care plan** [ 3 Free Uses ].<br/>  Generates a printable PDF [ 1 Free Uses ] <br/> Recommends matching pesticides/fertilisers that are avliavle in our store <br/>  Users order them via our built‑in marketplace and customers get their product through a partnership supply chain <br/> No refund and Excahnge Product. |
+| 4 | **Crop Predictions<br/>Depening on the  Soil NPK , Rainfall , PH , Location , Choice Feeling** | Enter the Soil NPK<br/>Enter the Rainfall value<br/>Enter the Soil PH<br/>Enter the Location<br/> Enter the Choice-Feelings<br/>Generate Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. ,br/> Download the PDF [ 1 Free Uses ]|
+| 5 | **Crop Predictions<br/>Uploading the  Soil Image** | Uploading  the Soil Image<br/>Enter the Choice-Feelings<br/>Generate Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. ,br/> Download the PDF [ 1 Free Uses ]|
+| 6 | **Verdant Shop Center** | Sell fertiliser & pesticide like ecommerce with no refund and exchange. |
+| 7 | **Whatsapp Community** | Share stories, tips, or field snapshots with one another . |
+| 8 | **Gamified Quiz For Recovering The 100+ Crop/Plant Disease** | After detection, a 10‑question quiz auto‑generates to reinforce knowledge; finished Q + A can be exported as PDF. |
+
+
 
 ### For Gardeners
 Most farmer features are mirrored for smaller‑scale gardening, plus plant‑specific terminology.

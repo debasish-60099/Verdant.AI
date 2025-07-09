@@ -15,9 +15,15 @@ Agriculture in West Bengal ranges from large‑scale paddy fields to balcony ga
 ## Core Features
 
 ### For Farmers
-| # | Feature | Description |
+| 🌱 | Feature | Description |
 |---|---------|-------------|
-| 1 | **Voice Chatbot <br/>+ Research Mode** | Hands‑free Q & A in Bengali or English; deep dives into best practices, research papers, and market trends. |
+| 1 | **Voice Chatbot <br/>+ Research Mode** | Multilingual Q&A: Ask questions in any Indian language (Bengali, English, Hindi, Tamil, etc.) via voice or text—get instant, accurate responses.
+Research Mode (Environment Focus):
+Dive deep into best practices, market trends, and research papers (curated for environmental topics).
+Free Tier:
+Generate & download reports in PDF format (3 free uses).
+PDF download (1 free use).
+Post-Free Tier: Subscribe for unlimited access. |
 | 2 | **AI Plant Disease Detection** | Upload or snap a leaf/plant photo → receive disease name, summary, and **7‑day care plan**. Generates a printable PDF, recommends matching pesticides/fertilisers, and lets users order them via our built‑in marketplace. |
 | 3 | **Crop Predictions** | Enter your West Bengal district ➜ choose intended crop ➜ upload soil photo. Report covers: 1) viable crops, 2) optimal sowing/harvest time, 3) projected profit. |
 | 4 | **Gamified Quiz** | After detection, a 10‑question quiz auto‑generates to reinforce knowledge; finished Q + A can be exported as PDF. |

@@ -10,7 +10,7 @@ Agriculture in West Bengal ranges from large-scale paddy fields to balcony garde
 - **Learn** through gamified quizzes
 - **Shop** for recommended agricultural inputs
 - **Connect** with peers via community features
-- **Plan** using hyper-local weather forecasts
+- **Plan** using hyper-local weather forecast
 
 ---
 
